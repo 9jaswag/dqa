@@ -6,13 +6,11 @@ const csc = require("./questions/csc");
 
 module.exports = () => {
   const data = {
-    questions: {
-      mcb,
-      chm,
-      csc,
-      bch,
-      gns,
-    },
+    mcb,
+    chm,
+    csc,
+    bch,
+    gns,
   };
 
   return data;

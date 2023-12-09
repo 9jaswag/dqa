@@ -1,3 +1,1 @@
-module.exports = {
-  2022: require('./2022'),
-};
+module.exports = [{ id: 1, year: 2022, questions: require("./2022") }];

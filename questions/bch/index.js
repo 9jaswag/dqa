@@ -1,6 +1,6 @@
-module.exports = {
-  2017: require('./2017'),
-  2018: require('./2018'),
-  2019: require('./2019'),
-  2022: require('./2022'),
-};
+module.exports = [
+  { id: 1, year: 2017, questions: require("./2017") },
+  { id: 2, year: 2018, questions: require("./2018") },
+  { id: 3, year: 2019, questions: require("./2019") },
+  { id: 4, year: 2022, questions: require("./2022") },
+];
