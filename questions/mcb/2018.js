@@ -1,17 +1,17 @@
 module.exports = [
-  `1(a). Describe the following branches of genetics in one sentence for each: <br>
-  i. iCytogenetics <br>
-  ii. Transmission genetics <br>
-  iii. Molecular genetics <br>
-  iv. Morganian genetics <br>
+  `1(a). Describe the following branches of genetics in one sentence for each: <br/> \
+  i. iCytogenetics <br/> \
+  ii. Transmission genetics <br/> \
+  iii. Molecular genetics <br/> \
+  iv. Morganian genetics
   `,
   `1(b). Describe the relationship between genotype and phenotype.`,
-  `1(c). Define the following terms: <br>
-  i. Character. <br>
-  ii. Gene. <br>
-  iii. Genome. <br>
-  iv. Pleiotropy. <br>
-  v. Test cross. <br>
+  `1(c). Define the following terms: <br/> \
+  i. Character. <br/> \
+  ii. Gene. <br/> \
+  iii. Genome. <br/> \
+  iv. Pleiotropy. <br/> \
+  v. Test cross.
   `,
   `1(d). Mention two differences between homologous chromosomes and sister chromatids.`,
   `1(e). Give a schematic description of the central dogma of molecular genetics.`,

@@ -1,5 +1,5 @@
 module.exports = [
-  `1. Filling in the missing numbers in the table below. <br>
+  `1. Filling in the missing numbers in the table below. <br/> \
   SIN Base 10. Base 2 Base 8 Base 16 15 2. 1100100 3. 14B 721 ABC
   `,
   `2. Explain the process of solving problems ("problem solving" using computing skills and relate it to solving problem in your field of study `,
